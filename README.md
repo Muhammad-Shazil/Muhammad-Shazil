@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/muhammad-shazil-babar-273688220">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:muhammadshazil@gmail.com">
+  <a href="mailto:muhammadshazil76@gmail.com">
     <img src="https://img.shields.io/badge/Email-Send-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
